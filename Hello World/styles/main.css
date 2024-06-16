@@ -1,0 +1,6 @@
+body {
+    display: flex; /* Change display to "flex"; Flex makes centering much easier */
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+}
